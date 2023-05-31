@@ -6,6 +6,11 @@
         {
             FlipCoin flipCoin = new FlipCoin();
             flipCoin.FlipCoinNumber();
+            Console.WriteLine("--------------------");
+
+            LeapYear leapYear = new LeapYear();
+            leapYear.CheckLeapYear();
+
 
         }
     }
