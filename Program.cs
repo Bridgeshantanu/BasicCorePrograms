@@ -18,9 +18,12 @@
 
             Factors factors = new Factors();
             factors.FactorNumbers();
+            Console.WriteLine("--------------------");
 
-
-
+            Math math = new Math();
+            math.Math1();
+            math.Math2();
+            math.Math3();
         }
     }
 }
