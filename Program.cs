@@ -14,6 +14,10 @@
 
             HarmonicNumber harmonicNumber = new HarmonicNumber();
             harmonicNumber.Harmonic();
+            Console.WriteLine("--------------------");
+
+            Factors factors = new Factors();
+            factors.FactorNumbers();
 
 
 
