@@ -10,6 +10,11 @@
 
             LeapYear leapYear = new LeapYear();
             leapYear.CheckLeapYear();
+            Console.WriteLine("--------------------");
+
+            HarmonicNumber harmonicNumber = new HarmonicNumber();
+            harmonicNumber.Harmonic();
+
 
 
         }
